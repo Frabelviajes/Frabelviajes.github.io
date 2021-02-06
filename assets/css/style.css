@@ -17,7 +17,6 @@ html {
 body {
   font-family: "Roboto", sans-serif;
   line-height: inherit;
-  scroll-behavior:smooth;
   color: #4f4f4f;
   font-size: 1rem;
 }

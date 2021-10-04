@@ -70,6 +70,9 @@ header.sticky{
     font-size: 18px;
     font-weight: lighter;
 }
+.menu li a:hover{
+    text-decoration: underline;
+}
 .menu li a.active{
     font-weight: bold;
 }
